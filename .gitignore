@@ -1,0 +1,9 @@
+*.exe
+*.o
+*.layout
+*.depend
+*.mk
+*.project
+*.txt
+
+/13.Linked list/
